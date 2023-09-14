@@ -11,6 +11,7 @@ In order to run the script when you startup your computer you have to add the ba
 
 
 ![dCmMItfBtfHdzCJsthG7MZxEyejHAGiguLaS1fA1FAIOsZoJNx](https://github.com/ExoticusFruit/DiscoBack/assets/66678273/bb273d13-8a30-4e4f-be0b-3ff1e6b41147)
+![image](https://github.com/ExoticusFruit/DiscoBack/assets/66678273/0c76e529-cb97-4093-a148-daeea86c38c7)
 
 
 Make sure you change the path to the script in side of the batch file.
