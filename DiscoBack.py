@@ -4,6 +4,8 @@ from datetime import datetime
 import os
 import shutil
 
+print("[+] Want to backup your Discord account automatically every time you boot your computer? Look no further!\n[+] https://github.com/ExoticusFruit/DiscoBack/blob/main/README.md#running-this-script-on-startup")
+
 running_directory = os.path.dirname(os.path.abspath(__file__))
 
 with open(f"{running_directory}//config.json", "r") as f:
