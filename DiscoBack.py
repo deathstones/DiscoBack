@@ -4,7 +4,9 @@ from datetime import datetime
 import os
 import shutil
 
-with open("config.json", "r") as f:
+running_directory = os.path.dirname(os.path.abspath(__file__))
+
+with open(f"{running_directory}//config.json", "r") as f:
     config = json.load(f)
     token = config['discord_token']
     backup_path = config['backup_path']
