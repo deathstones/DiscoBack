@@ -7,7 +7,7 @@ If you plan on using this, it is recommended to make it auotmatically run when y
 ![image](https://github.com/ExoticusFruit/DiscoBack/assets/66678273/3818d536-91b3-46d6-8270-8c702179a175)
 ![image](https://github.com/ExoticusFruit/DiscoBack/assets/66678273/1beb6e40-7150-4bf4-ae65-86ab15928b1f)
 # Running this script on startup
-In order to run the script when you startup your computer you have to add the batch file called "startup-script.bat" to your shell:startup in Windows.
+In order to run the script when you startup your computer you have to add the batch file called "startup-script.bat" to your shell:startup directory in Windows.
 
 
 ![dCmMItfBtfHdzCJsthG7MZxEyejHAGiguLaS1fA1FAIOsZoJNx](https://github.com/ExoticusFruit/DiscoBack/assets/66678273/bb273d13-8a30-4e4f-be0b-3ff1e6b41147)
