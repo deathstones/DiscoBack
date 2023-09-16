@@ -105,7 +105,7 @@ print(f"[+] Backed up {len(guild_list)} guilds.")
 
 # Backup Discord settings.
 with open(f"{backup_path}\\settings.txt", "w", encoding="utf-8") as f:
-    f.write(requests.get(URLs.settings, headers=headers, timeout=10).text, timeout=10)
+    f.write(requests.get(URLs.settings, headers=headers, timeout=10).text)
 print("[+] Backed up Discord settings.")
 
 # Write the metadata.
